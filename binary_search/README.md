@@ -13,7 +13,10 @@ Usage:
 
   x=input("Give number to search:")
 
-  if(a.Bsearch(int(x))):\n
+  if(a.Bsearch(int(x))):
+  
 	  print("Found")
+  
   else:
-	  print("Not found")
+
+	   print("Not found")
