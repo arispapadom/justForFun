@@ -6,7 +6,7 @@ Binary search algorithm is userd for searching an element in a list. Just hit in
 You can use this as a python library.
 
 Usage:
-
+```
   from binary_search import *
   
   a = list(range(1,100))
@@ -14,9 +14,8 @@ Usage:
   x=input("Give number to search:")
 
   if(a.Bsearch(int(x))):
-  
-	  print("Found")
-  
+  	print("Found")
   else:
+  	print("Not found")
+```
 
-	   print("Not found")
