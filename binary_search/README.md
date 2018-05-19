@@ -1,4 +1,4 @@
-Binary search algorithm is userd for searching an element in a list. Just hit in the middle and you will get what you want in log2(n) tries (n is the number of list).
+Binary search algorithm is userd for searching an element in a sorted list. Just hit in the middle and you will get what you want. You will take it within at most log2(n) tries (n is the number of list). Not have a sorted list? cd ../quicksort
 
 
 
